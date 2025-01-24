@@ -1,10 +1,10 @@
 === Remove Checkout Fields for Woocommerce ===
 Contributors: imawais
 Donate link: https://www.buymeacoffee.com/awaiskh199H
-Tags: woocommerce, remove checkout fields, hide checkout fields, remove billing fields, remove shipping fields, remove woocommerce checkout fields
+Tags: woocommerce, remove checkout fields, hide checkout fields, remove billing fields, remove shipping fields
 Requires at least: 5.0
-Tested up to: 6.6.2
-Stable tag: 1.4
+Tested up to: 6.7.1
+Stable tag: 1.5
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -44,6 +44,11 @@ Email field removal option is not included on purpose because email field is use
 3. Save changes.
 
 == Changelog ==
+
+= 1.5 =
+* Tested with WordPress 6.7.1
+* Extra Tag removed
+
 
 = 1.4 =
 * Readme.txt updated

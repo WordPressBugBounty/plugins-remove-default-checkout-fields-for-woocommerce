@@ -5,7 +5,7 @@
  * 
  * Author URI:  https://khawais.com/
  * Author:      Khawaja Awais
- * Version:     1.4
+ * Version:     1.5
  *
  * Text Domain: Remove-Checkout-Fields
  *
